@@ -1,1 +1,1 @@
-# Volant JS
+# Volant JS Proof of concept
